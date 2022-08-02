@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ben10/static/css/main.a8cd0293.css",
+    "main.js": "/ben10/static/js/main.ffeae042.js",
+    "index.html": "/ben10/index.html",
+    "main.a8cd0293.css.map": "/ben10/static/css/main.a8cd0293.css.map",
+    "main.ffeae042.js.map": "/ben10/static/js/main.ffeae042.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8cd0293.css",
+    "static/js/main.ffeae042.js"
+  ]
+}
